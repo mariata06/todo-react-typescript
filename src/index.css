@@ -11,6 +11,7 @@ Variables
   --color-grey-1: #102a42;
   --color-grey-5: #617d98;
   --color-grey-10: #f1f5f8;
+  --color-grey-20: #ccc;
   --color-white: #fff;
   --color-red-dark: hsl(360, 67%, 44%);
   --color-red-light: hsl(360, 71%, 66%);
@@ -39,4 +40,3 @@ body {
 a {
   text-decoration: none;
 }
-
